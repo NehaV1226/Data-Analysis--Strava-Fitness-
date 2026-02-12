@@ -1,6 +1,6 @@
 # Data-Analysis--Strava Fitness- EDA Analysis
 
-Strava, Inc, is a U.S- based company that operates a popular fitness tracking and social networking app primarily for cyclists and runners. Founded in 2009 byMark Grainey and Micheal Horvath, Strava allowas users to record physical activities using GPS data, analyze performance matrics, and share workouts with acommunity of athletes. The platform supports various sports and integrates with many fitness devices. Strava is known for features like segments, leaderboards,and challenges, promoting competition and motivation. The company is headquartered is San Francisco, California. To be honest I'm not paying my fullconcentration in this project todat I'm left with alot of work and still not doing it properly.
+Strava, Inc, is a U.S- based company that operates a popular fitness tracking and social networking app primarily for cyclists and runners. Founded in 2009 byMark Grainey and Micheal Horvath, Strava allowas users to record physical activities using GPS data, analyze performance matrics, and share workouts with acommunity of athletes. The platform supports various sports and integrates with many fitness devices. Strava is known for features like segments, leaderboards,and challenges, promoting competition and motivation. The company is headquartered is San Francisco, California. 
 
 The business objective of this project are as follows:-
 1. To analyze the dataset and find the new trends which attracts more customers to download the app.
